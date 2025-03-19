@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test de Luscher</string>
+    <string name="app_title">Test de los Colores de Luscher</string>
+    <string name="app_description">El test de los colores fue creado en 1949 por el suizo Max Luscher.\n
+        Se ha difundido ampliamente a nivel mundial por sus características únicas que lo diferencian
+        de otros tests proyectivos:\n
+        rapidez y simplicidad en su aplicación, validez universal, riqueza y precisión de los datos obtenidos,
+        y alta fiabilidad.\n Sus áreas de aplicación incluyen: clínica, selección de personal, orientación profesional, etnología y pedagogía.</string>
+    <string name="start_test">Iniciar el Test</string>
+    <string name="instructions_first">Selecciona los colores en orden de preferencia</string>
+    <string name="instructions_second">Selecciona nuevamente los colores en orden de preferencia</string>
+    <string name="generate_result">Generar Resultado</string>
+</resources>
