@@ -1,0 +1,35 @@
+
+Este es un aplicativo Android Kotlin para el Test de los colores de Max Luscher.El Test de Lüscher o Test de los Colores es un test de tipo proyectivo ideado por Max Lüscher que pretende evaluar el estado psicofisiológico de una persona, su estilo de afrontamiento del estrés y otras características estables de su personalidad. 
+
+Lo escribí como un ejercicio de aprendizaje porque ofrecía muchos desafíos:  
+- Interfaz de usuario compleja que involucra sonido sincronizado con la pantalla y la acción del usuario.  
+- Atención al paso del tiempo para una correcta representación de la experiencia del usuario.  
+- Inyección de dependencias 
+- Arquitectura MVVM
+
+Pude basarme en el excelente trabajo de otros:  
+
+Los  gráficos de los botones derivan del trabajo de Tito Real titoreal.pro  
+Ese trabajo está licenciado bajo **Creative Commons Non Commercial Share Alike**:  
+[http://creativecommons.org/licenses/by-nc-sa/1.0-legalcode](http://creativecommons.org/licenses/by-nc-sa/1.0-legalcode)  
+
+El código fuente en Kotlin pertenece a Tito Real, https://titoreal.pro.Ese trabajo está licenciado bajo **Creative Commons Non Commercial Share Alike**:  
+[http://creativecommons.org/licenses/by-nc-sa/1.0-legalcode](http://creativecommons.org/licenses/by-nc-sa/1.0-legalcode)     
+
+La prueba de color de Lüscher es una prueba psicológica inventada por Max Lüscher en Basilea , Suiza, publicada por primera vez en 1947 en alemán y traducida por primera vez al inglés en 1969.
+
+El test en sí, sus colores y nombre son propiedad de  
+Max Lüscher fue un psicoterapeuta suizo conocido por inventar el Test de Color Lüscher, una herramienta para medir el estado psicofísico de un individuo según sus preferencias de color.  
+
+Este trabajo, el código fuente y el binario ejecutable están licenciados bajo la  
+**Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License**.  
+
+Para ver una copia de esta licencia, visita:  
+[http://creativecommons.org/licenses/by-nc-sa/3.0/](http://creativecommons.org/licenses/by-nc-sa/3.0/)  
+o envía una carta a: **Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA**.  
+
+**Resumen de términos:** Puedes usar este código para **fines no comerciales**  
+y realizar modificaciones, pero debes **atribuir la fuente** y compartir el código  
+bajo los mismos términos.  
+
+---
