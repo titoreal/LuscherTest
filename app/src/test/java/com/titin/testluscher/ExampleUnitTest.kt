@@ -1,4 +1,4 @@
-package com.titin.testpersonalidad
+package com.titin.testluscher
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.titin.testpersonalidad.ui.state
+package com.titin.testluscher.ui.state
 
 sealed class UiState<out T> {
     object Loading : UiState<Nothing>()

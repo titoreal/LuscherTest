@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.titin.testpersonalidad"
+    namespace = "com.titin.testluscher"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.titin.testpersonalidad"
+        applicationId = "com.titin.testluscher"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

@@ -1,4 +1,4 @@
-package com.titin.testpersonalidad.model
+package com.titin.testluscher.model
 
 data class TestResult(
     val personality: String,

@@ -1,7 +1,7 @@
-package com.titin.testpersonalidad
+package com.titin.testluscher
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-class TestPersonalidadApplication : Application()
+class TestLuscherApplication : Application()
